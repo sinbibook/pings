@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-05-06T02:24:29.698244505Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-05-06T02:25:22.569869603Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "b627d93e-a0ae-480a-a724-89bb3910550e",
     "homepageId": "79771788-f731-465c-b45b-d85d51d936f8"
@@ -904,7 +904,10 @@
             "family": "Cormorant"
           }
         },
-        "color": null
+        "color": {
+          "primary": "#F4F3EB",
+          "secondary": "#464E32"
+        }
       },
       "property": {
         "name": "거제 핑스 애견펜션",
