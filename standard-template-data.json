@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-05-06T02:25:22.569869603Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-05-06T02:28:18.189132567Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "b627d93e-a0ae-480a-a724-89bb3910550e",
     "homepageId": "79771788-f731-465c-b45b-d85d51d936f8"
@@ -837,7 +837,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "거제 핑스 애견펜션",
                 "images": [
                   {
                     "id": "5f40b159-fa29-4aa9-b49a-05fcdb2a75f6",
@@ -847,9 +847,41 @@
                     "isSelected": true,
                     "blockId": null
                   }
-                ]
+                ],
+                "description": " "
               },
-              "about": [ ]
+              "about": [
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "a01ddfb7-faa4-482b-9c7a-538b035b62cf",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/main_about/1778034492745-ryoanrzhjl.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "03c5ddbf-69e6-4716-9445-5e9f3f1a47fb"
+                    }
+                  ],
+                  "blockId": "03c5ddbf-69e6-4716-9445-5e9f3f1a47fb",
+                  "description": "바다 바로 앞, 창밖 가득 펼쳐지는 오션뷰\n머무는 순간마다 편안하게 쉬어가는 공간\n잔잔한 파도와 함께 하루를 채워보세요."
+                },
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "4a6b1ca1-06df-4c46-96eb-b56a7cb2835d",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/main_about/1778034492775-wpo951jby8.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "53a41f13-049c-4f34-968f-b3aeed2db454"
+                    }
+                  ],
+                  "blockId": "53a41f13-049c-4f34-968f-b3aeed2db454",
+                  "description": "반려견과 함께 머물 수 있는 감성 애견펜션\n넓은 애견운동장에서 마음껏 뛰어놀 수 있어요.\n편안한 휴식과 자유로운 시간을 함께 즐겨보세요!"
+                }
+              ]
             }
           ]
         },
