@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-05-08T10:12:30.086611117Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-05-13T01:20:22.213266404Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "b627d93e-a0ae-480a-a724-89bb3910550e",
     "homepageId": "79771788-f731-465c-b45b-d85d51d936f8"
@@ -285,6 +285,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -353,6 +354,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -421,6 +423,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -471,7 +474,7 @@
     },
     {
       "id": "8094c6be-3741-4a69-be5d-b35f2f1622a9",
-      "name": "904(오션뷰, 테라스)",
+      "name": "904(오션뷰, 복층)",
       "description": "",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1\n",
       "usageGuide": "",
@@ -489,6 +492,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "테라스",
@@ -539,7 +543,7 @@
     },
     {
       "id": "9e50933d-e92c-40d1-b5a9-17df7ab199b1",
-      "name": "905(오션뷰, 테라스)",
+      "name": "905(오션뷰, 복층)",
       "description": "",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1\n",
       "usageGuide": "",
@@ -557,6 +561,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "테라스",
@@ -607,7 +612,7 @@
     },
     {
       "id": "48fea512-d747-4ff0-94ea-7d3d2b379f58",
-      "name": "906(오션뷰, 테라스)",
+      "name": "906(오션뷰, 복층)",
       "description": "",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1\n",
       "usageGuide": "",
@@ -625,6 +630,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": [ ],
       "amenities": [
         "침대",
         "테라스",
