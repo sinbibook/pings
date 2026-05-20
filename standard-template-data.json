@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-05-18T05:50:14.278000816Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-05-20T01:16:40.553993304Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "b627d93e-a0ae-480a-a724-89bb3910550e",
     "homepageId": "79771788-f731-465c-b45b-d85d51d936f8"
@@ -26,7 +26,7 @@
     "city": "거제시",
     "domain": "pings.kr",
     "realtimeBookingId": "https://map.naver.com/p/entry/place/1955793677",
-    "ybsId": "",
+    "ybsId": "80276",
     "amenities": [ ],
     "nearbyAttractions": [
       "해변",
