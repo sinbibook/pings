@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.12.0",
-    "generatedAt": "2026-06-16T08:30:01.354561820Z",
+    "version": "1.13.0",
+    "generatedAt": "2026-06-16T08:49:11.196290811Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "b627d93e-a0ae-480a-a724-89bb3910550e",
     "homepageId": "79771788-f731-465c-b45b-d85d51d936f8"
@@ -736,16 +736,16 @@
                 "title": "거제 핑스 애견펜션",
                 "images": [
                   {
-                    "id": "887a9984-b1f7-42bf-9f28-0eaf7866c690",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801176-6zy62mmdoz.jpg",
+                    "id": "1db88529-db38-44dd-90ec-f7ac61179fc2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801203-lfnvkcewxy.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "1db88529-db38-44dd-90ec-f7ac61179fc2",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801203-lfnvkcewxy.jpg",
+                    "id": "887a9984-b1f7-42bf-9f28-0eaf7866c690",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801176-6zy62mmdoz.jpg",
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true,
