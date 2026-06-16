@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-05-20T01:17:17.152206917Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-06-16T08:29:26.691513756Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "b627d93e-a0ae-480a-a724-89bb3910550e",
     "homepageId": "79771788-f731-465c-b45b-d85d51d936f8"
@@ -74,7 +74,7 @@
         "name": "전 객실 개별바베큐",
         "description": " ",
         "usageGuide": "- 이용금액 : 20,000원 (1박기준/현장결제)\n- 제공품목 : 숯+그릴+바베큐통+장갑+집게+가위\n- 준비시간 : 입실시 ~ 23시\n- 이용시간 : 입실시 ~ 23시\n※ 숯 , 그릴, 버너 개인지참 불가\n※ 시간 관계없이 직접 토치 사용하여 이용",
-        "displayOrder": 165,
+        "displayOrder": 0,
         "images": [ ]
       },
       {
@@ -82,15 +82,40 @@
         "name": "야외 공용수영장",
         "description": " ",
         "usageGuide": "- 운영기간 : 추후안내예정\n- 이용시간 : 입실시 ~ 21시 (연박시에만 오전 10시부터 가능)\n- 이용복장 : 면티 착용 가능\n\n※ 수영장 이용수칙\n- 수영 전 준비운동을 충분히 하고 이용해 주시기 바랍니다.\n- 다이빙은 절대 금지합니다. (※이용객의 부주의로 인한 사고에 대해서는 책임지지 않습니다.)\n- 유아 및 어린이는 반드시 보호자 동행 요망(유아와 어린이는 구명조끼를 반드시 착용해 주세요.)\n- 주변 바닥이 미끄러울 수 있으니 주의가 필요하며 유아 및 어린이 단독 출입을 제한합니다.\n- 물놀이는 응급사고의 위험이 있으므로, 수영장은 혼자 이용할 수 없습니다.\n- 수영장 내 음식물 반입 및 음주, 담배를 절대 금합니다.",
-        "displayOrder": 166,
-        "images": [ ]
+        "displayOrder": 1,
+        "images": [
+          {
+            "id": "f1584ae2-9d43-4547-987d-5a6ac392b59d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3e9b1cb0-627d-4b5a-aebe-bad118aacac1/main/1781597584829-eot7cs39xq.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b70a53be-afeb-4c98-9413-a95d05afffa9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3e9b1cb0-627d-4b5a-aebe-bad118aacac1/main/1781597584831-62hz5pj2x5.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "68bebea7-41da-4ae9-ad1c-7114550d86b1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/3e9b1cb0-627d-4b5a-aebe-bad118aacac1/main/1781597584750-cmsoikgbyc.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "cfc875b2-b94b-4898-84d9-499da68ea6d3",
         "name": "애견운동장",
         "description": " ",
         "usageGuide": "- 반려견이 자유롭게 뛰어놀 수 있는 인조잔디\n",
-        "displayOrder": 167,
+        "displayOrder": 2,
         "images": [ ]
       },
       {
@@ -98,7 +123,7 @@
         "name": "족구장",
         "description": " ",
         "usageGuide": "- 족구장 보유",
-        "displayOrder": 168,
+        "displayOrder": 3,
         "images": [ ]
       },
       {
@@ -106,7 +131,7 @@
         "name": "전 객실 애견동반가능",
         "description": " ",
         "usageGuide": "- 최대마리수 : 901,902,903 2마리 / 904,905,906 3마리\n- 최대 kg수 : ~15kg 미만\n- 요금 : 1마리 무료입실 / 추가 1마리당 20,000원(1박기준/현장결제)\n※ 최대마리수 초과시 사전문의필수",
-        "displayOrder": 169,
+        "displayOrder": 4,
         "images": [ ]
       }
     ],
@@ -155,7 +180,9 @@
     "refundSettings": {
       "customerRefundNotice": "",
       "immediateRefundEnabled": false,
-      "immediateRefundTimeLimit": "60"
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "60",
+      "sameDayReservationHourLimit": null
     },
     "images": [
       {
@@ -1014,6 +1041,12 @@
               }
             }
           ]
+        },
+        "layoutMap": {
+          "sections": [ ]
+        },
+        "nearbyAttractions": {
+          "sections": [ ]
         }
       },
       "popup": {
