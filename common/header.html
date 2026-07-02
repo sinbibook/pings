@@ -3,20 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Header Component</title>
+    <title>거제 핑스 애견펜션</title>
     <link rel="stylesheet" href="../styles/header.css">
   <!-- Open Graph Meta Tags for Social Media -->
   <meta property="og:type" content="website" />
   <meta property="og:title" content="거제 핑스 애견펜션" />
-  
-  
+  <meta property="og:description" content="아름다운 바다 뷰와 개별 테라스에서의 여유를 즐기는 핑스 애견펜션입니다." />
+  <meta property="og:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/06/nu845vWsafMU.jpg" />
   <meta property="og:url" content="https://pings.kr" />
 
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="거제 핑스 애견펜션" />
-  
-  
+  <meta name="twitter:description" content="아름다운 바다 뷰와 개별 테라스에서의 여유를 즐기는 핑스 애견펜션입니다." />
+  <meta name="twitter:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/06/nu845vWsafMU.jpg" />
 </head>
 <body>
     <!-- Top Header -->
@@ -57,9 +57,11 @@
                 <!-- About Section -->
                 <div class="dropdown-section">
                     <h3 class="dropdown-section-title expandable active" onclick="toggleMobileAccordion(this)">About</h3>
-                    <ul class="dropdown-section-list accordion-content active">
+                    <ul class="dropdown-section-list accordion-content active" data-about-menu>
                         <li><a onclick="navigateTo('main')">프롤로그</a></li>
                         <li><a onclick="navigateTo('directions')">오시는길</a></li>
+                        <li class="nearby-attractions-menu" style="display: none;"><a onclick="navigateTo('nearby-attractions')">주변 관광지</a></li>
+                        <li class="layout-map-menu" style="display: none;"><a onclick="navigateTo('layout-map')">숙소 배치도</a></li>
                     </ul>
                 </div>
 
