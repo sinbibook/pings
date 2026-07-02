@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.15.0",
-    "generatedAt": "2026-07-02T05:18:14.313002923Z",
+    "version": "1.16.0",
+    "generatedAt": "2026-07-02T05:22:11.499168778Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "b627d93e-a0ae-480a-a724-89bb3910550e",
     "homepageId": "79771788-f731-465c-b45b-d85d51d936f8"
@@ -1419,9 +1419,17 @@
                     "blockId": null
                   },
                   {
+                    "id": "bd714599-9d64-43c2-b521-651e741b5883",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1782969727866-vpm6xo34cw.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
                     "id": "51f98bc5-f307-4840-877c-24edefa6d90c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801327-0bxihxxovv.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1429,7 +1437,7 @@
                   {
                     "id": "a8629b4b-2217-4e88-8eeb-92ccd29cbbff",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801325-mo6we7fmjn.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1437,7 +1445,7 @@
                   {
                     "id": "3edbd0cd-a055-4a68-9aed-ed43d74c76bb",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801325-73tyj21tre.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1445,7 +1453,7 @@
                   {
                     "id": "b39cc0ee-9f7e-4646-bc60-ccaa3bd5800d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801272-ik19fryaoc.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1453,7 +1461,7 @@
                   {
                     "id": "70e0c060-7d6b-406c-8baa-0a4f59c2d160",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801227-yhoik8af5o.jpg",
-                    "sortOrder": 7,
+                    "sortOrder": 8,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1461,7 +1469,7 @@
                   {
                     "id": "46a5bc8b-5cfe-4b89-894f-fdf8c68bfc07",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801369-47ccxifzsp.jpg",
-                    "sortOrder": 8,
+                    "sortOrder": 9,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1469,7 +1477,7 @@
                   {
                     "id": "8430e35c-3115-46ba-9ba8-928d0ec94e60",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801327-4itasvgd09.jpg",
-                    "sortOrder": 9,
+                    "sortOrder": 10,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
