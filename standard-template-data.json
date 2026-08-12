@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.19.0",
-    "generatedAt": "2026-07-02T05:31:00.075935171Z",
+    "version": "1.20.0",
+    "generatedAt": "2026-08-12T08:10:07.171484527Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "b627d93e-a0ae-480a-a724-89bb3910550e",
     "homepageId": "79771788-f731-465c-b45b-d85d51d936f8"
@@ -25,7 +25,7 @@
     "province": "경상남도",
     "city": "거제시",
     "domain": "pings.kr",
-    "realtimeBookingId": "https://map.naver.com/p/entry/place/1955793677",
+    "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1653351",
     "ybsId": "80276",
     "amenities": [
       "흡연구역(지정장소)",
@@ -306,8 +306,8 @@
       {
         "thumbnail": [
           {
-            "id": "0cede77d-ed99-4700-ac71-05fd6706232c",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/06/nu845vWsafMU.jpg",
+            "id": "bd74a7f4-d07a-4845-91be-f5450063bb3f",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/02/oMBOite8ndTq.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
@@ -316,9 +316,25 @@
         ],
         "exterior": [
           {
+            "id": "50ce7b48-e4ad-4743-b1f1-241e1768c51c",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/02/6a9LE2pmVNsY.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0cede77d-ed99-4700-ac71-05fd6706232c",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/06/nu845vWsafMU.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
             "id": "bc4e2854-c677-4575-8280-a25c1fc571ac",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/06/GpEXIi6xMjKw.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -326,7 +342,7 @@
           {
             "id": "ad67ae3c-b01c-4c1c-a51e-dbb6b7f3a763",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/06/zn7LByTfqIOE.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -334,7 +350,7 @@
           {
             "id": "4cc85c0f-8ee1-45d0-b1f6-1635c59c2d05",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/06/QqBmYjDX8ML6.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -342,7 +358,7 @@
           {
             "id": "60a60307-264b-4dfb-af12-2c1af752b338",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/06/0sN6Ugqjro5C.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -350,7 +366,7 @@
           {
             "id": "51b0f5f2-defb-43b3-a51d-7642cdd152ec",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/06/WU4BxOsX69k2.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -358,7 +374,7 @@
           {
             "id": "776644ab-2fcb-4195-acbb-5043c0300ec3",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/06/AKuLfsTDFNYd.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -366,7 +382,7 @@
           {
             "id": "486f2759-6f2f-428c-8006-acfddd4ea76b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/06/UMWAJjIE146F.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -374,7 +390,7 @@
           {
             "id": "d9ce1f3a-3300-41ee-8cbf-264f62ef3cd7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/06/Lc4gaJERjV6Q.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -382,7 +398,7 @@
           {
             "id": "e8aaae1f-4a8e-49f2-9148-2ea1f0dbbebb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/06/H0Pm87YRGVBn.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -586,6 +602,7 @@
         }
       ],
       "amenities": [
+        "애견 배변패드",
         "린스",
         "취사시설/도구",
         "전기밥솥",
@@ -595,7 +612,6 @@
         "남녀공용",
         "욕실용품",
         "테라스",
-        "애견 배변패드",
         "애견식기류",
         "전자레인지",
         "인덕션",
@@ -625,7 +641,7 @@
         {
           "thumbnail": [
             {
-              "id": "16450556-eeba-4219-a7f2-9064fb22f578",
+              "id": "db140e15-0c85-45c5-a9f1-66857c52d36b",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/06/J4uR8q7vhAC2.jpg",
               "sortOrder": 1,
               "description": "",
@@ -635,7 +651,7 @@
           ],
           "interior": [
             {
-              "id": "95f2e516-27a9-478c-b096-9b320274556e",
+              "id": "5415c64a-b639-44f9-b060-e59f48208f12",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/06/W7tZr583jsxy.jpg",
               "sortOrder": 2,
               "description": "",
@@ -643,7 +659,7 @@
               "blockId": null
             },
             {
-              "id": "eee6f8cc-41d5-4984-ba9a-dd9ce1d6423d",
+              "id": "48fcd585-3b6c-4304-9bb4-8fc570cc2e2f",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/06/lg4cFqLNtOE3.jpg",
               "sortOrder": 3,
               "description": "",
@@ -651,7 +667,7 @@
               "blockId": null
             },
             {
-              "id": "a373d7e4-fbe2-43c1-a932-24d8843de35a",
+              "id": "c36747a3-6d0c-49bc-988c-a607fbdf2378",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/06/I7fhKc4er0VE.jpg",
               "sortOrder": 4,
               "description": "",
@@ -659,7 +675,7 @@
               "blockId": null
             },
             {
-              "id": "134703cf-7520-4170-94d0-edf0db9d210a",
+              "id": "1a7fcb09-71dc-4e7e-ac91-27fe324388d7",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/06/a5bdEgI8Xx3y.jpg",
               "sortOrder": 5,
               "description": "",
@@ -667,7 +683,7 @@
               "blockId": null
             },
             {
-              "id": "1c69c183-ff9f-4461-aa9e-757448c252d8",
+              "id": "17839656-bcb3-4d9d-8f6d-96fc2190efda",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/06/PW6SlcQYADRx.jpg",
               "sortOrder": 6,
               "description": "",
@@ -675,7 +691,7 @@
               "blockId": null
             },
             {
-              "id": "afc1d647-b126-4361-8639-190bbe7b06a0",
+              "id": "f1f7f01c-162d-43fe-8294-034b801fc7ef",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/06/i6o5Pd0whCZL.jpg",
               "sortOrder": 7,
               "description": "",
@@ -683,7 +699,7 @@
               "blockId": null
             },
             {
-              "id": "53247e82-cefd-4416-966f-ca2a073c7804",
+              "id": "89b3df65-678b-4ef3-b0cf-7cac34630597",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/05/06/CbjzPH4M62nD.jpg",
               "sortOrder": 8,
               "description": "",
@@ -1377,7 +1393,9 @@
     "seo": {
       "title": "거제 핑스 애견펜션",
       "description": "거제 핑스 애견펜션, 반려견과 함께 즐기는 감성 오션뷰 숙소",
-      "keywords": "거제펜션,거제숙소,거제애견,거제반려견,애견펜션,반려견동반"
+      "keywords": "거제펜션,거제숙소,거제애견,거제반려견,애견펜션,반려견동반",
+      "naverSiteVerification": null,
+      "googleSiteVerification": null
     },
     "socialLinks": {
       "facebook": null,
