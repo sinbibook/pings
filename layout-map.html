@@ -75,12 +75,14 @@
     <script src="js/common/scroll-animations.js"></script>
     <script src="js/pages/layout-map.js"></script>
 
-    <!-- Initialize Data Mapper -->
+    <!-- Initialize Data Mapper (로컬 환경용, iframe 아닐 때만 - 프리뷰는 preview-handler가 처리) -->
     <script>
-        document.addEventListener('DOMContentLoaded', async function() {
-            const layoutMapMapper = new LayoutMapMapper();
-            await layoutMapMapper.initialize();
-        });
+        if (window.parent === window) {
+            document.addEventListener('DOMContentLoaded', async function() {
+                const layoutMapMapper = new LayoutMapMapper();
+                await layoutMapMapper.initialize();
+            });
+        }
     </script>
 
 </body>

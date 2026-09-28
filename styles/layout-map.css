@@ -58,12 +58,7 @@
     flex-direction: column;
     opacity: 0;
     transform: translateY(30px);
-    transition: opacity 0.8s ease, transform 0.8s ease;
-}
-
-.layout-map-item.visible {
-    opacity: 1;
-    transform: translateY(0);
+    animation: fadeInUp 0.8s ease forwards;
 }
 
 .layout-map-image {
@@ -85,6 +80,10 @@
     text-align: left;
     background: rgba(101, 131, 153, 0.1);
     padding: 25px;
+}
+
+.layout-map-image-description:empty {
+    display: none;
 }
 
 /* Tablet Responsive */
