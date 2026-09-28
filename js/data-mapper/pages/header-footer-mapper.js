@@ -510,7 +510,7 @@ class HeaderFooterMapper extends BaseDataMapper {
             }
         }
 
-        // 저작권 정보 매핑 - 자동 생성 (현재년도 + 신비서 하드코딩)
+        // 저작권 정보 매핑 - 현재년도 + property.tripProviderName (없으면 신비서)
         const copyrightElement = this.safeSelect('[data-footer-copyright]');
         if (copyrightElement) {
             const currentYear = new Date().getFullYear();
@@ -519,7 +519,9 @@ class HeaderFooterMapper extends BaseDataMapper {
             const copyrightLink = document.createElement('a');
             copyrightLink.href = 'https://www.sinbibook.com/';
             copyrightLink.target = '_blank';
-            copyrightLink.textContent = `© ${currentYear} 신비서. All rights reserved.`;
+            // property.tripProviderName(Trip11 공급자명) 이 있으면 그 이름으로, 없으면 기존 '신비서'
+            const provider = String(this.safeGet(this.data, 'property.tripProviderName') || '').trim() || '신비서';
+            copyrightLink.textContent = `© ${currentYear} ${provider}. All rights reserved.`;
             copyrightLink.style.color = 'inherit';
             copyrightLink.style.textDecoration = 'none';
 
