@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.20.0",
-    "generatedAt": "2026-08-12T08:10:07.171484527Z",
+    "version": "1.21.0",
+    "generatedAt": "2026-09-28T06:43:34.281630540Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "b627d93e-a0ae-480a-a724-89bb3910550e",
     "homepageId": "79771788-f731-465c-b45b-d85d51d936f8"
@@ -15,12 +15,14 @@
     "address": "경남 거제시 장목면 거제북로 2738-2 핑스 애견펜션",
     "latitude": 34.9973305853919,
     "longitude": 128.692942926386,
-    "contactPhone": "010-7574-4990",
+    "contactPhone": [
+      "010-7574-4990"
+    ],
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.",
-    "usageGuide": "[펜션 이용 안내 사항]\n- 전 객실 절대 금연입니다.\n- 미성년자는 보호자 동반 없이 이용하실 수 없습니다.\n- 다른 이용객에게 피해를 줄 수 있는 무분별한 오락, 음주, 고성방가는 삼가주시기 바랍니다.\n- 객실 및 주변 시설 이용 시 시설물의 훼손, 분실에 대한 책임은 투숙객에게 있으며, 손해배상의 책임을 질 수 있습니다.\n- 음식물 및 기타 쓰레기는 꼭 분리수거해 주시기 바랍니다.\n- 실내에서 고기, 생선 등 냄새가 심한 음식은 조리를 금지합니다.\n- 애견 운동장에서 바비큐 시 불꽃놀이 불멍은 금지입니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n\n[인원추가요금]\n- 만 5세이상~성인 10,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n\n[개별바베큐]\n[전 객실 개별바베큐]\n- 이용금액 : 20,000원 (1박기준/현장결제)\n- 제공품목 : 숯+그릴+바베큐통+장갑+집게+가위\n- 준비시간 : 입실시 ~ 23시\n- 운영시간 : 입실시 ~ 23시\n※ 숯 , 그릴, 버너 개인지참 불가\n※ 시간 관계없이 직접 토치 사용하여 이용\n\n[공용수영장]\n[야외 공용수영장]\n- 운영기간 : 6월 25일 ~ 9월 13일\n- 운영시간 : 12시 ~ 21시 (연박시에만 오후 12시부터 가능)\n- 이용복장 : 면티 착용 가능\n\n※ 수영장 이용수칙\n- 수영 전 준비운동을 충분히 하고 이용해 주시기 바랍니다.\n- 다이빙은 절대 금지합니다. (※이용객의 부주의로 인한 사고에 대해서는 책임지지 않습니다.)\n- 유아 및 어린이는 반드시 보호자 동행 요망(유아와 어린이는 구명조끼를 반드시 착용해 주세요.)\n- 주변 바닥이 미끄러울 수 있으니 주의가 필요하며 유아 및 어린이 단독 출입을 제한합니다.\n- 물놀이는 응급사고의 위험이 있으므로, 수영장은 혼자 이용할 수 없습니다.\n- 수영장 내 음식물 반입 및 음주, 담배를 절대 금합니다.\n\n[애견동반]\n[전 객실 애견동반가능]\n- 최대마리수 : 901,902,903 2마리 / 904,905,906 3마리\n- 최대 kg수 : ~15kg 미만\n- 요금 : 1마리 무료입실 / 추가 1마리당 20,000원(1박기준/현장결제)\n※ 최대마리수 초과시 사전문의필수\n\n[부대시설]\n[애견운동장]\n- 반려견이 자유롭게 뛰어놀 수 있는 인조잔디\n\n[족구장]\n- 족구장 보유\n\n[편의 및 주변 시설]\n[편의시설]\n- 전 객실 Wi-Fi 이용 가능\n- 펜션 내 주차공간\n\n[주변관광지]\n- 매미성\n- 거제관광모노레일\n- 유호리전망대\n- 거제저도유람선\n- 몽돌해변\n\n[교통편]\n거제시 장목면 거제북로 2738-2 왼쪽 핑크스동 도로변 주차장에 주차하시고 왼쪽 안내실로 오시면 됩니다.",
+    "usageGuide": "[공지사항]\n[펜션 이용 안내 사항]\n- 전 객실 절대 금연입니다.\n- 미성년자는 보호자 동반 없이 이용하실 수 없습니다.\n- 다른 이용객에게 피해를 줄 수 있는 무분별한 오락, 음주, 고성방가는 삼가주시기 바랍니다.\n- 객실 및 주변 시설 이용 시 시설물의 훼손, 분실에 대한 책임은 투숙객에게 있으며, 손해배상의 책임을 질 수 있습니다.\n- 음식물 및 기타 쓰레기는 꼭 분리수거해 주시기 바랍니다.\n- 실내에서 고기, 생선 등 냄새가 심한 음식은 조리를 금지합니다.\n- 애견 운동장에서 바비큐 시 불꽃놀이 불멍은 금지입니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 60개월 이상~8세 미만\n- 유아: 60개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n- 만 5세이상~성인 10,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n\n[개별바베큐]\n[전 객실 개별바베큐]\n- 이용금액 : 20,000원 (1박기준/현장결제)\n- 제공품목 : 숯+그릴+바베큐통+장갑+집게+가위\n- 준비시간 : 입실시 ~ 23시\n- 운영시간 : 입실시 ~ 23시\n※ 숯 , 그릴, 버너 개인지참 불가\n※ 시간 관계없이 직접 토치 사용하여 이용\n\n[공용수영장]\n[야외 공용수영장]\n- 운영기간 : 6월 25일 ~ 9월 13일\n- 운영시간 : 12시 ~ 21시 (연박시에만 오후 12시부터 가능)\n- 이용복장 : 면티 착용 가능\n\n※ 수영장 이용수칙\n- 수영 전 준비운동을 충분히 하고 이용해 주시기 바랍니다.\n- 다이빙은 절대 금지합니다. (※이용객의 부주의로 인한 사고에 대해서는 책임지지 않습니다.)\n- 유아 및 어린이는 반드시 보호자 동행 요망(유아와 어린이는 구명조끼를 반드시 착용해 주세요.)\n- 주변 바닥이 미끄러울 수 있으니 주의가 필요하며 유아 및 어린이 단독 출입을 제한합니다.\n- 물놀이는 응급사고의 위험이 있으므로, 수영장은 혼자 이용할 수 없습니다.\n- 수영장 내 음식물 반입 및 음주, 담배를 절대 금합니다.\n\n[애견동반]\n[전 객실 애견동반가능]\n- 최대마리수 : 901,902,903 2마리 / 904,905,906 3마리\n- 최대 kg수 : ~15kg 미만\n- 요금 : 1마리 무료입실 / 추가 1마리당 20,000원(1박기준/현장결제)\n※ 최대마리수 초과시 사전문의필수\n\n[부대시설]\n[애견운동장]\n- 반려견이 자유롭게 뛰어놀 수 있는 인조잔디\n\n[족구장]\n- 족구장 보유\n\n[편의 및 주변 시설]\n[편의시설]\n- 전 객실 Wi-Fi 이용 가능\n- 펜션 내 주차공간\n\n[주변관광지]\n- 매미성\n- 거제관광모노레일\n- 유호리전망대\n- 거제저도유람선\n- 몽돌해변\n\n[교통편]\n거제시 장목면 거제북로 2738-2 왼쪽 핑크스동 도로변 주차장에 주차하시고 왼쪽 안내실로 오시면 됩니다.",
     "reservationGuide": "[펜션 이용 안내 사항]\n- 전 객실 절대 금연입니다.\n- 미성년자는 보호자 동반 없이 이용하실 수 없습니다.\n- 다른 이용객에게 피해를 줄 수 있는 무분별한 오락, 음주, 고성방가는 삼가주시기 바랍니다.\n- 객실 및 주변 시설 이용 시 시설물의 훼손, 분실에 대한 책임은 투숙객에게 있으며, 손해배상의 책임을 질 수 있습니다.\n- 음식물 및 기타 쓰레기는 꼭 분리수거해 주시기 바랍니다.\n- 실내에서 고기, 생선 등 냄새가 심한 음식은 조리를 금지합니다.\n- 애견 운동장에서 바비큐 시 불꽃놀이 불멍은 금지입니다.",
     "province": "경상남도",
     "city": "거제시",
@@ -306,31 +308,15 @@
       {
         "thumbnail": [
           {
-            "id": "bd74a7f4-d07a-4845-91be-f5450063bb3f",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/02/oMBOite8ndTq.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          }
-        ],
-        "exterior": [
-          {
-            "id": "50ce7b48-e4ad-4743-b1f1-241e1768c51c",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/02/6a9LE2pmVNsY.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
             "id": "0cede77d-ed99-4700-ac71-05fd6706232c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/06/nu845vWsafMU.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
-          },
+          }
+        ],
+        "exterior": [
           {
             "id": "bc4e2854-c677-4575-8280-a25c1fc571ac",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/06/GpEXIi6xMjKw.jpg",
@@ -372,9 +358,25 @@
             "blockId": null
           },
           {
+            "id": "50ce7b48-e4ad-4743-b1f1-241e1768c51c",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/02/6a9LE2pmVNsY.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "bd74a7f4-d07a-4845-91be-f5450063bb3f",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/02/oMBOite8ndTq.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
             "id": "776644ab-2fcb-4195-acbb-5043c0300ec3",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/06/AKuLfsTDFNYd.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -382,7 +384,7 @@
           {
             "id": "486f2759-6f2f-428c-8006-acfddd4ea76b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/06/UMWAJjIE146F.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -390,7 +392,7 @@
           {
             "id": "d9ce1f3a-3300-41ee-8cbf-264f62ef3cd7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/06/Lc4gaJERjV6Q.jpg",
-            "sortOrder": 9,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -398,7 +400,7 @@
           {
             "id": "e8aaae1f-4a8e-49f2-9148-2ea1f0dbbebb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/05/06/H0Pm87YRGVBn.jpg",
-            "sortOrder": 10,
+            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -407,7 +409,10 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ]
+    ],
+    "tripPropertyId": "12008",
+    "partnerType": "distributor_b",
+    "tripProviderName": "(주)신비서"
   },
   "rooms": [
     {
@@ -1394,8 +1399,8 @@
       "title": "거제 핑스 애견펜션",
       "description": "거제 핑스 애견펜션, 반려견과 함께 즐기는 감성 오션뷰 숙소",
       "keywords": "거제펜션,거제숙소,거제애견,거제반려견,애견펜션,반려견동반",
-      "naverSiteVerification": null,
-      "googleSiteVerification": null
+      "naverSiteVerification": "",
+      "googleSiteVerification": ""
     },
     "socialLinks": {
       "facebook": null,
@@ -1412,88 +1417,88 @@
                 "title": "거제 핑스 애견펜션",
                 "images": [
                   {
-                    "id": "bd714599-9d64-43c2-b521-651e741b5883",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1782969727866-vpm6xo34cw.jpg",
+                    "id": "01a0e6c1-21c2-73e9-9cbf-828b7a554a03",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1790577810975-z3t5t0y6gx.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "1db88529-db38-44dd-90ec-f7ac61179fc2",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801203-lfnvkcewxy.jpg",
+                    "id": "01a0e6c1-1f23-7832-bd10-34e82277f726",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1790577810976-3t3e7md8z0.jpg",
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "887a9984-b1f7-42bf-9f28-0eaf7866c690",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801176-6zy62mmdoz.jpg",
+                    "id": "01a0e6c1-1f68-72c1-afc3-8464a9fc3c42",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1790577810977-7cruig4wlx.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "ace9bbf7-8b54-4147-a2c2-a58d693b5c66",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801201-8zl19enzef.jpg",
+                    "id": "01a0e6c1-1f7f-735e-9a91-73d1393cc124",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1790577810978-isuc9wrfaf.jpg",
                     "sortOrder": 3,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "51f98bc5-f307-4840-877c-24edefa6d90c",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801327-0bxihxxovv.jpg",
+                    "id": "01a0e6c1-1f41-7326-9234-c4312abc2d5a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1790577810979-2wa2xrq833.jpg",
                     "sortOrder": 4,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "a8629b4b-2217-4e88-8eeb-92ccd29cbbff",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801325-mo6we7fmjn.jpg",
+                    "id": "01a0e6c1-1f3a-7562-9f31-d425448d7855",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1790577810979-x7j1m3ovmh.jpg",
                     "sortOrder": 5,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "3edbd0cd-a055-4a68-9aed-ed43d74c76bb",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801325-73tyj21tre.jpg",
+                    "id": "01a0e6c1-217c-7d75-8c4d-e0f2e52558fe",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1790577810978-2m16ust7oi.jpg",
                     "sortOrder": 6,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "b39cc0ee-9f7e-4646-bc60-ccaa3bd5800d",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801272-ik19fryaoc.jpg",
+                    "id": "01a0e6c1-2023-7d17-9f2e-04f3a7a1514b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1790577810980-oxgx54trjd.jpg",
                     "sortOrder": 7,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "70e0c060-7d6b-406c-8baa-0a4f59c2d160",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801227-yhoik8af5o.jpg",
+                    "id": "01a0e6c1-2396-7ac9-9cce-fcf5dcc2a1af",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1790577810980-xi4e691ort.jpg",
                     "sortOrder": 8,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "46a5bc8b-5cfe-4b89-894f-fdf8c68bfc07",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801369-47ccxifzsp.jpg",
+                    "id": "01a0e6c1-22e6-7d54-8203-62d0d962da3f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1790577810981-2szxrj69x8.jpg",
                     "sortOrder": 9,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "8430e35c-3115-46ba-9ba8-928d0ec94e60",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1778033801327-4itasvgd09.jpg",
+                    "id": "01a0e6c1-1f7f-71a7-a0ea-0af5de7e2ffd",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/79771788-f731-465c-b45b-d85d51d936f8/index_hero/1790577810980-kcw85ljewk.jpg",
                     "sortOrder": 10,
                     "description": "",
                     "isSelected": true,
