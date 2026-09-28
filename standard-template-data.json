@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-09-28T07:21:50.823340168Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-09-28T07:24:09.478933963Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "b627d93e-a0ae-480a-a724-89bb3910550e",
     "homepageId": "79771788-f731-465c-b45b-d85d51d936f8"
@@ -29,6 +29,9 @@
     "domain": "pings.kr",
     "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1653351",
     "ybsId": "80276",
+    "tripPropertyId": "12008",
+    "partnerType": "distributor_b",
+    "tripProviderName": "(주)신비서",
     "amenities": [
       "흡연구역(지정장소)",
       "주차장"
@@ -401,10 +404,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "tripPropertyId": "12008",
-    "partnerType": "distributor_b",
-    "tripProviderName": "(주)신비서"
+    ]
   },
   "rooms": [
     {
